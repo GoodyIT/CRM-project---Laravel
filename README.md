@@ -1,1 +1,1 @@
-# Stokkup
+# Stock management project developed in Laravel + AngularJS
